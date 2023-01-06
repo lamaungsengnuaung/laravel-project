@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "pizza_order_system",
+			"path": ".."
+		},
+		{
+			"name": "00_Admin Dashboard",
+			"path": "D:\\00_Admin Dashboard\\00_Admin Dashboard"
+		},
+		{
+			"name": "00_Customer Panel",
+			"path": "D:\\00_Customer Panel"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\xampp\\htdocs\\lara9_lists"
+		}
+	],
+	"settings": {
+		"editor.formatOnSave": true,
+		"liveServer.settings.multiRootWorkspaceName": "00_Admin Dashboard"
+	}
+}

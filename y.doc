@@ -1,0 +1,70 @@
+
+     #raw
+
+          !_ _ youth skill training _ _!
+     ? Phakant Youth guide (who know and lived in 'Phakant')
+     ? moderator (1)
+     ? public speaking (1)
+     ? leadership [followership] (1)
+     ? general knowledge  | job appotunity | commercial economic
+     ? animation (1)
+     ? Bible knowledge (1)
+     ? volunteer  (local)
+
+
+     ------------ --   ---  ----  -----
+
+     +operators: array:33 [▼
+    0 => "="
+    1 => "<"
+    2 => ">"
+    3 => "<="
+    4 => ">="
+    5 => "<>"
+    6 => "!="
+    7 => "<=>"
+    8 => "like"
+    9 => "like binary"
+    10 => "not like"
+    11 => "ilike"
+    12 => "&"
+    13 => "|"
+    14 => "^"
+    15 => "<<"
+    16 => ">>"
+    17 => "&~"
+    18 => "is"
+    19 => "is not"
+    20 => "rlike"
+    21 => "not rlike"
+    22 => "regexp"
+    23 => "not regexp"
+    24 => "~"
+    25 => "~*"
+    26 => "!~"
+    27 => "!~*"
+    28 => "similar to"
+    29 => "not similar to"
+    30 => "not ilike"
+    31 => "~~*"
+    32 => "!~~*"
+  ]
+  +bitwiseOperators: array:6 [▼
+    0 => "&"
+    1 => "|"
+    2 => "^"
+    3 => "<<"
+    4 => ">>"
+    5 => "&~"
+
++bindings: array:9 [▼
+    "select" => []
+    "from" => []
+    "join" => []
+    "where" => []
+    "groupBy" => []
+    "having" => []
+    "order" => []
+    "union" => []
+    "unionOrder" => []
+  ]
